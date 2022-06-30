@@ -1,0 +1,50 @@
+body{
+    background-color:rgb(242, 242, 244);
+}
+  div{
+    margin: 0 auto;
+  }
+
+
+ .d1 {
+    width: 300px;
+    background-color: blueviolet;
+    padding: 70px;
+    float: left;
+    position: relative;
+
+  }
+  .d2 {
+    width: 300px;
+    background-color: aquamarine;
+    padding: 70px;
+    float: right;
+    position: relative;
+
+  }
+  .d3 {
+    width: 387px;
+    height: 100px;
+    background-color:aqua ;
+    padding: 70px;
+    clear: both;
+    position: relative;
+  }
+  .d4 {
+    width: 300px;
+    padding: 70px;
+    background-color: rgb(24, 183, 32);
+    position: relative;
+    float: left;
+    
+  }
+  .d5 {
+    width: 300px;
+    background-color: bisque;
+    padding: 70px;
+    float: right;
+    position: relative;
+  }
+  div:hover {
+    opacity: 0.6;
+  }
